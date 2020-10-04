@@ -1,0 +1,2 @@
+# azure-service-bus-queue
+AZURE SERVICE BUS QUEUES WITH ASP.NET CORE SERVICES
